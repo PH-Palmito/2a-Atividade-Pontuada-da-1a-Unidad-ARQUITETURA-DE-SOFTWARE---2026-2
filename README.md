@@ -1,17 +1,14 @@
-# SmartHome Manager — Padrão Visitor
+# SmartHome Manager
 
 Projeto acadêmico da UCSAL para demonstrar o padrão de projeto **Visitor** em Java.
 
-## Integrantes
 
-- Nome do aluno responsável pelo Visitor: __________________
-- Demais integrantes: __________________
 
 ## 1. Objetivo
 
 O projeto simula um sistema de automação residencial com lâmpadas inteligentes, termostatos e câmeras de segurança.
 
-O padrão Visitor é utilizado para executar operações sobre diferentes tipos de dispositivos sem colocar todas essas operações dentro das classes dos dispositivos.
+
 
 ## 2. O que é o Visitor?
 
